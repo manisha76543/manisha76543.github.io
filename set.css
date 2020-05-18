@@ -1,0 +1,28 @@
+h1{
+	font-size: 3em;
+	color: red;
+}
+hr{
+	border-color: green;
+	border-width: 3px;
+	max-width: 75px;
+
+}
+html
+{
+	
+	height: 100px;
+	 background: url(m.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
